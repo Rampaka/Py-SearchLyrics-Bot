@@ -1,1 +1,1 @@
-# Py-SearchLyrics-Bot
+# Discord Py Search Lyrics Bot

@@ -1,0 +1,4 @@
+discord
+discord-py-slash-command
+lyricsgenius
+asyncio
